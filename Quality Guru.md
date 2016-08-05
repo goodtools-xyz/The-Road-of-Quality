@@ -4,12 +4,14 @@
 
 # Walter A. Shewhart([Wiki](https://en.wikipedia.org/wiki/Walter_A._Shewhart))
 ### Father of statistical quality control-March 18, 1891 – March 11, 1967
-# Joseph M. Juran([Wiki](https://en.wikipedia.org/wiki/Joseph_M._Juran))
-### A search for universal principles-December 24, 1904 – February 28, 2008
 # W. Edwards Deming([Wiki](https://en.wikipedia.org/wiki/Edward_Deming))
 ### A mission pursued on two continents-October 14, 1900 – December 20, 1993
+# Joseph M. Juran([Wiki](https://en.wikipedia.org/wiki/Joseph_M._Juran))
+### A search for universal principles-December 24, 1904 – February 28, 2008
 #  Ishikawa Kaoru([Wiki](https://en.wikipedia.org/wiki/Kaoru_Ishikawa))
 ### Father of QCC-July 13, 1915 - April 16, 1989
+# Philip B. Crosby([Wiki](https://en.wikipedia.org/wiki/Philip_B._Crosby))
+### Zero Defec-June 18, 1926 – August 18, 2001
 * 1960 Quality Control
 * 1968 Guide to Quality Control
 * 初等実験計画法テキスト（1968）
