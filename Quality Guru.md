@@ -1,4 +1,6 @@
 
+# Frederick Winslow Taylor ([Wiki](https://en.wikipedia.org/wiki/Frederick_Winslow_Taylor))-March 20, 1856 – March 21, 1915
+### Father of Scientific Management.
 # Walter A. Shewhart([Wiki]())
 ### Father of statistical quality control
 # Joseph M. Juran([Wiki]())
