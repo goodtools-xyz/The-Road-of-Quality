@@ -43,4 +43,4 @@
 # Reference
 * [The History of Quality - Overview
 ](http://www.iem.yuntech.edu.tw/home/lab/qre/source/QC/files/SQC01-History&Guru.pdf)
-*[Philip B. Crosby Biography](http://www.philipcrosby.com/25years/crosby.html)
+* [Philip B. Crosby Biography](http://www.philipcrosby.com/25years/crosby.html)
