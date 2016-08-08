@@ -39,6 +39,7 @@
 * Quality Is Still Free, 1996
 * The Absolutes of Leadership, 1997
 * Quality and Me: Lessons of an Evolving Life, 1999
+
 ---
 # Reference
 * [The History of Quality - Overview
