@@ -27,7 +27,20 @@
 
 # Philip B. Crosby([Wiki](https://en.wikipedia.org/wiki/Philip_B._Crosby))
 ### Zero Defec-June 18, 1926 – August 18, 2001
+* Cutting the Cost of Quality, 1967
+* Quality Is Free: The Art of Making Quality Certain, 1979
+* Quality Without Tears: The Art of Hassle-Free Management, 1984
+* Running Things: The Art of Making Things Happen, 1986
+* The Eternally Successful Organization, 1988
+* Let’s Talk Quality, 1989
+* Leading: The Art of Becoming an Executive, 1990
+* Completeness: Quality for the 21st Century, 1992
+* Reflections on Quality, 1995
+* Quality Is Still Free, 1996
+* The Absolutes of Leadership, 1997
+* Quality and Me: Lessons of an Evolving Life, 1999
 ---
 # Reference
 * [The History of Quality - Overview
 ](http://www.iem.yuntech.edu.tw/home/lab/qre/source/QC/files/SQC01-History&Guru.pdf)
+*[Philip B. Crosby Biography](http://www.philipcrosby.com/25years/crosby.html)
