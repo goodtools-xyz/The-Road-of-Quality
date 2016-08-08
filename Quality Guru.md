@@ -24,6 +24,8 @@
 * 日本的品質管理 ― TQCとは何か（1984）
 * 誰にでもわかるTQCのはなし（1985）
 * 品質管理入門（1989）
+# Armand Vallin Feigenbaum ([Wiki](https://en.wikipedia.org/wiki/Armand_V._Feigenbaum))
+### Father of TQC - (April 6, 1922 – November 13, 2014)
 
 # Philip B. Crosby([Wiki](https://en.wikipedia.org/wiki/Philip_B._Crosby))
 ### Zero Defec-June 18, 1926 – August 18, 2001
