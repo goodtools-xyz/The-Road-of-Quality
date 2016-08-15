@@ -15,13 +15,14 @@
 
 # Joseph M. Juran([Wiki](https://en.wikipedia.org/wiki/Joseph_M._Juran))
 ### A search for universal principles-December 24, 1904 – February 28, 2008
-* Quality Control Handbook, New York, New York: McGraw-Hill, 1951, OCLC 1220529
+* Quality Control Handbook, New York, New York: McGraw-Hill, 1951
 * Eventually published in six editions: 2nd edition, 1962, 3rd edition, 1974, 4th edition, 1988, 5th edition, 1999, 6th edition, 2010
 * Managerial Breakthrough, New York, New York: McGraw-Hill, 1964
-* Management of Quality Control, New York, New York: Joseph M. Juran, 1967, OCLC 66818686
+* Management of Quality Control, New York, New York: Joseph M. Juran, 1967
 * Quality Planning and Analysis, New York, New York: McGraw-Hill, 1970
-* Upper Management and Quality, New York, New York: Joseph M. Juran, 1980, OCLC 8103276
-* Juran on Planning for Quality, New York, New York: The Free Press, 1988, OCLC 16468905
+* Upper Management and Quality, New York, New York: Joseph M. Juran, 1980
+* Juran on Planning for Quality, New York, New York: The Free Press, 1988
+
 #  Ishikawa Kaoru([Wiki](https://en.wikipedia.org/wiki/Kaoru_Ishikawa))
 ### Father of QCC-July 13, 1915 - April 16, 1989
 * 1960 Quality Control
