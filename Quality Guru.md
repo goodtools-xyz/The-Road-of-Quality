@@ -7,11 +7,9 @@
 # W. Edwards Deming([Wiki](https://en.wikipedia.org/wiki/Edward_Deming))
 ### A mission pursued on two continents-October 14, 1900 – December 20, 1993
 
-* 《商业调查中的样本设计》（Sample Design in Business Research）（ 1960）
-
-* 《走出困境：质量、生产率和竞争地位》（Out of Crisis: Quality， Productivity and Competitive Position ）（1986）
-
-* 《产业、政府和教育中的新经济》（The New Economics for Industry， Government and Education ）（1993）
+* Sample Design in Business Research（1960）
+* Out of Crisis: Quality， Productivity and Competitive Position（1986）
+* The New Economics for Industry， Government and Education（1993）
 
 # Joseph M. Juran([Wiki](https://en.wikipedia.org/wiki/Joseph_M._Juran))
 ### A search for universal principles-December 24, 1904 – February 28, 2008
@@ -22,7 +20,21 @@
 * Quality Planning and Analysis, New York, New York: McGraw-Hill, 1970
 * Upper Management and Quality, New York, New York: Joseph M. Juran, 1980
 * Juran on Planning for Quality, New York, New York: The Free Press, 1988
-
+# Shigeo Shingo 新郷重夫 [Wiki](https://en.wikipedia.org/wiki/Shigeo_Shingo)
+### Toyota Production System-1909 - 1990
+* A Revolution in Manufacturing: The Smed System, Productivity Press, 1985 (English), ISBN 0-915299-03-8
+* Shingo: A Study of the Toyota Production System, Productivity Press, 1981 (Japanese), 1989 (English), ISBN 0-915299-17-8.
+* Modern Approaches to Manufacturing Improvement: The Shingo System, Productivity Press, 1990 (English), ISBN 0-915299-64-X
+* Quick Changeover for Operators: The SMED System, Productivity Press, 1996 (English), ISBN 1-56327-125-7
+* Shigeo Shingo: The Sayings of Shigeo Shingo: Key Strategies for Plant Improvement, Productivity Press, 1987 (English), ISBN 0-915299-15-1
+* Shigeo Shingo: Zero Quality Control: Source Inspection and the Poka-Yoke System, Productivity Press, 1986 (English), ISBN 0-915299-07-0
+* Shigeo Shingo: Non-Stock Production: The Shingo System for Continuous Improvement, Productivity Press, 1988 (English), ISBN 0-915299-30-5
+* Shigeo Shingo: Mistake-Proofing for Operators: The ZQC System, Productivity Press, 1997 (English), ISBN 1-56327-127-3
+* Shigeo Shingo: The Shingo Production Management System: Improving Process Functions (Manufacturing & Production), Productivity Press, 1992 (English), ISBN 0-915299-52-6
+* Shigeo Shingo: Enfoques Modernos Para la Mejora En la Fabricacion: El Sistema Shingo, Productivity Press, 1992 (Spanish), ISBN 84-87022-77-4
+* Shigeo Shingo: Produccion Sin Stocks: El Sistema Shingo Para la Mejora Continua, Productivity Press, 1991 (Spanish), ISBN 84-87022-74-X
+* Shigeo Shingo: Das Erfolgsgeheimnis der Toyota-Produktion, Verlag moderne industrie, 1992 (German), ISBN 3-478-91062-5
+* Shigeo Shingo: Kaizen and The Art of Creative Thinking, Enna Product Corporation and PCS Inc, 2007 (English), ISBN 1897363591
 #  Ishikawa Kaoru([Wiki](https://en.wikipedia.org/wiki/Kaoru_Ishikawa))
 ### Father of QCC-July 13, 1915 - April 16, 1989
 * 1960 Quality Control
