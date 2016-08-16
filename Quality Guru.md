@@ -49,9 +49,26 @@
 * Quality Is Still Free, 1996
 * The Absolutes of Leadership, 1997
 * Quality and Me: Lessons of an Evolving Life, 1999
+# Tom Peters [Wiki](https://en.wikipedia.org/wiki/Tom_Peters)
+### In Search of Excellence - November 7, 1942-Now
+* 1982 – In Search of Excellence (co-written with Robert H. Waterman, Jr.)
+* 1985 – A Passion for Excellence (co-written with Nancy Austin)
+* 1987 – Thriving on Chaos
+* 1992 – Liberation Management
+* 1994 – The Tom Peters Seminar: Crazy Times Call for Crazy Organizations
+* 1994 – The Pursuit of WOW!
+* 1997 – The Circle of Innovation: You Can't Shrink Your Way to Greatness
+* 1999 – The Brand You 50: Or: Fifty Ways to Transform Yourself from an "Employee" into a Brand That Shouts Distinction, Commitment, and * Passion! (Reinventing Work Series)
+* 2003 – Re-imagine! Business Excellence in a Disruptive Age
+* 2005 – Talent
+* 2005 – Leadership
+* 2005 – Design
+* 2005 – Trends (co-written with Martha Barletta)
+* 2010 – The Little Big Things: 163 Ways to Pursue Excellence
 
 ---
 # Reference
 * [The History of Quality - Overview
 ](http://www.iem.yuntech.edu.tw/home/lab/qre/source/QC/files/SQC01-History&Guru.pdf)
 * [Philip B. Crosby Biography](http://www.philipcrosby.com/25years/crosby.html)
+* [DEMING THE MAN - TIMELINE](https://deming.org/theman/timeline)
