@@ -1,5 +1,6 @@
 # A Brief History of Quality
 ### Based on timeline
+* 1764 The device of jenny spinning was invented by James Hargreaves,it reduced the amount of work needed to produce yarn,and triggered the start of the Industrial Revolution[Spinning Jenny](https://en.wikipedia.org/wiki/Spinning_jenny)
 * 1875 Frederick W. Taylor-The Principles of Scientific Management.
 * 1906 IEC (International Electrotechnical Commission) founded.[About the IEC](http://www.iec.ch/about/)
 * 1924 Walter Shewart-SPC
