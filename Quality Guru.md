@@ -44,8 +44,13 @@
 * 日本的品質管理 ― TQCとは何か（1984）
 * 誰にでもわかるTQCのはなし（1985）
 * 品質管理入門（1989）
+
 # Armand Vallin Feigenbaum ([Wiki](https://en.wikipedia.org/wiki/Armand_V._Feigenbaum))
 ### Father of TQC - (April 6, 1922 – November 13, 2014)
+* 1945,Quality control: principles, practice and administration; an industrial management tool for improving product quality and design and for reducing operating costs and losses, McGraw-Hill industrial organization and management series, New York, McGraw-Hill, OCLC 18582947
+* 1961 Feigenbaum, Armand Vallin,Total Quality Control, McGraw-Hill, OCLC 250573852
+* 2003 Feigenbaum, A V; Feigenbaum, Donald S,The power of management capital : utilizing the new drivers of innovation, profitability, and growth in a demanding global economy, McGraw-Hill, ISBN 978-0-07-021733-1
+* 2009 Feigenbaum, A V; Feigenbaum, Donald S, The power of management innovation : 24 keys for sustaining and accelerating business growth and profitability, McGraw-Hill mighty manager handbooks., McGraw-Hill, ISBN 0-07-162578-X
 
 # Genichi Taguchi 田口玄一[Wiki](https://en.wikipedia.org/wiki/Genichi_Taguchi) 
 ### QFD-January 1, 1924 - June 2, 2012
