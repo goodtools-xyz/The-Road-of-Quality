@@ -40,6 +40,10 @@
 
 * 1980.6.24, [Americans widely viewed a NBC documentary called “If Japan Can… Why Can’t We.” ](https://www.deming.org/content/if-japan-canwhy-cant-we)
 
+* 1982 BOOK OF TPS Pubslished. [Lean Enterprise Institute](http://www.lean.org/WhatsLean/Timeline.cfm)
+
+* 1987 [Lean Enterprise Institute](http://www.lean.org/WhatsLean/Timeline.cfm)
+
 * 1995 An overall view of software engineering standard was completed with designation ISO/IEC 12207 and given the title of Standard for Software Life Cycle Processes.[IEEE Computer Society SWEBOK V3](https://www.computer.org/web/swebok)
 
 * 1997 ASQC drops "Control" from its name, becomes ASQ and formally adopts a new mission to promote performance excellence in a broad range of organizations and activities worldwide.[The ASQ Timeline](http://asq.org/about-asq/who-we-are/timeline.html)
