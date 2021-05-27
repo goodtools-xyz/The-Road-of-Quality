@@ -8,3 +8,5 @@
 
 ## Guru
 * [The IEBM Handbook of Management Thinking](https://www.baidu.com/link?url=F0Oo7s1XEjjj08lfKvs1pCwjRzgSQhwAl-gZ4u2VKtB0xn998kxxn2uu0q3BpdvFKFGKZgpxK7i4QvCve7p7yifVvYaddSivIoLsgrQAoKaMod4FwbUa8miIZkD-netfGu4IcPfaMEo_1u2OTEGdrq&wd=&eqid=94fb129b0001ea860000000657a4360b)
+## Statistics
+* [Materials for the History of Statistics-maintain by Peter M. Lee, 24 August 1940 — 10 March 2017](https://www.york.ac.uk/depts/maths/histstat)
