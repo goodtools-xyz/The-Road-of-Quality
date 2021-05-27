@@ -5,7 +5,9 @@
 * 1875 Frederick W. Taylor-The Principles of Scientific Management.
 
 * 1906 IEC (International Electrotechnical Commission) founded.[About the IEC](http://www.iec.ch/about/)
-
+* 
+* 1908 The Probable Error of a Mean,student distribution was proved and established.
+* 
 * 1924 Walter Shewart-SPC
 
 * 1926.6.18 Philip B. Crosby was born in Wheeling, West Virginia.[Biography Philip B. Crosby](http://www.philipcrosby.com/25years/crosby.html)
