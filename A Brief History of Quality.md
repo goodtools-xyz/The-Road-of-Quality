@@ -9,6 +9,8 @@
 * 1908 The Probable Error of a Mean,student distribution was proved and established.
 * 
 * 1924 Walter Shewart-SPC
+* 1926 The Goodness of Fit of Regression Formulae and the Distribution of Regression Coefficients,F distribution was created.
+
 
 * 1926.6.18 Philip B. Crosby was born in Wheeling, West Virginia.[Biography Philip B. Crosby](http://www.philipcrosby.com/25years/crosby.html)
 
