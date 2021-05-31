@@ -11,9 +11,8 @@
 * 1924 Walter Shewart-SPC
 * 1924 Fisher issue the variation analysis method on the 《On a distribution yielding the error functions of several well known statistics.》
 * 1926 The Goodness of Fit of Regression Formulae and the Distribution of Regression Coefficients,F distribution was created.
-
 * 1926.6.18 Philip B. Crosby was born in Wheeling, West Virginia.[Biography Philip B. Crosby](http://www.philipcrosby.com/25years/crosby.html)
-
+* 1930s [HAROLD F. DODGE](https://asq.org/about-asq/honorary-members/dodge#:~:text=Sampling%20was%20his%20forte%2C%20simplicity%20his%20creed%20Harold,a%20scientific%20basis%20in%20terms%20of%20controllable%20risks.) The Dodge-Romig Sampling Inspection Tables, developed with Harry G. Romig  at Bell Laboratories in the early 1930s and published in 1940.
 * 1943 Kaoru Ishikawa created Ishikawa diagrams (also called fishbone diagrams, herringbone diagrams, cause-and-effect diagrams, or Fishikawa) ([Ishikawa Kaoru](https://en.wikipedia.org/wiki/Kaoru_Ishikawa))
 
 * 1946.2.16 The American Society for Quality Control is formed on February 16 by 253 members of 17 quality-related societies. George Edwards, director of quality assurance at Bell Telephone Labs, is elected president.[The ASQ Timeline](http://asq.org/about-asq/who-we-are/timeline.html)
